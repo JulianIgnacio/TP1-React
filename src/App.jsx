@@ -1,11 +1,11 @@
 import './App.css'
-import Titulos from './Components/Titulos';
+import Mensaje from './Components/Titulos';
 
 const App= () => {
 
   return (
     <>
-    <Titulos/>
+    <Mensaje/>
     </>
   );
 }

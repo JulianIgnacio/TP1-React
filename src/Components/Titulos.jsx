@@ -1,11 +1,10 @@
 
-const Titulos = () => {
+const Mensaje = () => {
     return(
         <section>
-            <h1>Primera App React</h1>
-            <h2>Subtitulo</h2>
+            <h1>Hello Word!</h1>
         </section>
     );
 };
 
-export default Titulos;
+export default Mensaje;
