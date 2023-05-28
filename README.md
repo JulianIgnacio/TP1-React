@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-Aqui se encuentra el primer ejercicio del tp de react
+Aqui se encuentra el segundo ejercicio del tp de react
 
 ## Autor
 
