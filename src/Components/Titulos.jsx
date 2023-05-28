@@ -1,8 +1,9 @@
 
-const Mensaje = () => {
+const Mensaje = ({ nuevoMensaje }) => {
+
     return(
         <section>
-            <h1>Hello Word!</h1>
+            <h1>{ nuevoMensaje }</h1>
         </section>
     );
 };

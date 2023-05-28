@@ -5,7 +5,7 @@ const App= () => {
 
   return (
     <>
-    <Mensaje/>
+    <Mensaje nuevoMensaje='Hello my friend'/>
     </>
   );
 }
