@@ -1,8 +1,8 @@
-# Trabajo Practico 1 React
+# Trabajo Practico 1 React Ejercicio 3
 
 ## Descripcion
 
-Aqui se encuentra el segundo ejercicio del tp de react
+Aqui se encuentra el tercer ejercicio del tp de react
 
 ## Autor
 
