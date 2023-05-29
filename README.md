@@ -1,4 +1,4 @@
-# Trabajo Practico 1 React
+# Trabajo Practico 1 React Ejercicio 2
 
 ## Descripcion
 
